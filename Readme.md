@@ -1,1 +1,1 @@
-This repository contains my  C++ & Python Solutions for Leetcode. 
+This is my repo of Fraz's Leetcode solutions in java
